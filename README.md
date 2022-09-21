@@ -1,11 +1,12 @@
 ## freecodecamp_JavaScript-Algorithms-Projects
 
 
-## Technology Used :
+## Language used :
 * JavaScript
 
 
-## JavaScript Topic used:
+## JavaScript's Topic used:
 * Regex
 * Array Methods
 * String Methods
+* 2D Array
